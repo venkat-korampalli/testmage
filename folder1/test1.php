@@ -1,4 +1,7 @@
 <?php
-echo '1 new feature 1';
-
+echo '1 patch';
+echo 'pacth3';
+echo 'pacth4';
+echo 'patch6';
+echo 'pacth7';
 ?>
