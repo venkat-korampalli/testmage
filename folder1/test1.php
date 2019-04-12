@@ -5,4 +5,5 @@ echo 'pacth4';
 echo 'patch6';
 echo 'pacth7';
 echo 'PRODSEC';
+echo 'PRODSEC2';
 ?>
